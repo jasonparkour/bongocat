@@ -10,8 +10,9 @@ const InstrumentEnum = Object.freeze({
     TAMBOURINE: 6,
     COWBELL: 7
 })
+//test
 const KeyEnum = Object.freeze({
-    "A": 0,
+    "A": 1,
     "D": 0,
     "1": 1,
     "2": 2,
