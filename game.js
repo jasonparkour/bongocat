@@ -2,7 +2,7 @@ Array.prototype.remove = function(el) {
     return this.splice(this.indexOf(el), 1);
 }
 const InstrumentEnum = Object.freeze({
-    BONGO: 1,
+    BONGO: 0,
     KEYBOARD: 1,
     MEOW: 3,
     CYMBAL: 4,
